@@ -1,4 +1,4 @@
-# spaceinvader
+# space invaders
 trying to code space invaders
 
 Yes I know that space invaders has been done but I am not following a tutorial
